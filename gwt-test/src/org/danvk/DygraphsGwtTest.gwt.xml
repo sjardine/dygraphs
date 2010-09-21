@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="dygraphs_gwt_test">
+	<inherits name="com.google.gwt.user.User" />
+	<inherits name="org.danvk.dygraphs" />
+	<entry-point class='org.danvk.client.DygraphsGwtTest' />
+	<source path='client' />
+</module>
